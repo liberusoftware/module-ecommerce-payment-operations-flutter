@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-payment-operations-flutter",
+  "capabilityKey": "planned:ecommerce:payment-operations",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_payment_operations_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/payment-operations.md",
+  "presentationPlan": "projects/ecommerce/flutter/payment-operations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
